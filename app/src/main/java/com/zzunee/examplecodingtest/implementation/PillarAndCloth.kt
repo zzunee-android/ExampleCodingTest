@@ -2,9 +2,8 @@ package com.zzunee.examplecodingtest.implementation
 
 /**
  * 2020 KAKAO BLIND RECRUITMENT > 기둥과 보 설치
- * https://school.programmers.co.kr/learn/courses/30/lessons/60061
- * 각 기둥과 보를 Set에 넣고 삭제, 설치마다 구조물 상태 확인
- * 기둥과 보가 유효한 조건 체크가 핵심
+ * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/60061
+ * 💡각 기둥과 보를 Set에 넣고 삭제, 설치마다 구조물 상태 확인 (기둥과 보가 유효한 조건 체크가 핵심)
  */
 class PillarAndCloth {
     private fun solution(n: Int, build_frame: Array<IntArray>): Array<IntArray> {

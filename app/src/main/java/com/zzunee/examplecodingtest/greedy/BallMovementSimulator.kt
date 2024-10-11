@@ -2,9 +2,8 @@ package com.zzunee.examplecodingtest.greedy
 
 /**
  * 월간 코드 챌린지 시즌3 > 공 이동 시뮬레이션
- * https://school.programmers.co.kr/learn/courses/30/lessons/87391
- * 볼 이동 경로의 마지막부터 역추적
- * 증가 -> 감소, 감소 -> 증가하며 가능한 시작 범위를 탐색
+ * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/87391
+ * 💡볼 이동 경로의 마지막부터 역추적 (증가 -> 감소, 감소 -> 증가하며 가능한 시작 범위를 탐색)
  */
 class BallMovementSimulator {
     fun solution(n: Int, m: Int, x: Int, y: Int, queries: Array<IntArray>): Long {

@@ -2,9 +2,8 @@ package com.zzunee.examplecodingtest.implementation
 
 /**
  * 2020 KAKAO BLIND RECRUITMENT > 자물쇠와 열쇠
- * https://school.programmers.co.kr/learn/courses/30/lessons/60059
- * 자물쇠 배열의 크기를 3배 확장하고 x, y를 한칸씩 이동하며 전체 탐색
- * 현재 열쇠로 풀 수 없으면 90도씩 회전
+ * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/60059
+ * 💡자물쇠 배열의 크기를 3배 확장하고 x, y를 한칸씩 이동하며 전체 탐색 (현재 열쇠로 풀 수 없으면 90도씩 회전)
  */
 class LockAndKey {
     fun solution(key: Array<IntArray>, lock: Array<IntArray>): Boolean {
