@@ -11,6 +11,7 @@
 - 🗂binarysearch : 이진 탐색 풀이
 - 🗂binarytree : 이진 트리 풀이
 - 🗂dp : 다이나믹 프로그래밍 풀이
+- 🗂floydwarshall : 플로이드 워셜을 통한 최단 거리 풀이
 - 🗂️greedy : 그리디 문제 풀이
 - 🗂️implementation : 구현 문제 풀이
 - 🗂string : 문자열 문제 풀이
