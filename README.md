@@ -6,8 +6,9 @@
 - Tool : 안드로이드 스튜디오
 - 언어 : Kotlin
 
-
 ### 패키지
+🗂backtracking : dfs를 이용한 백트래킹 문제 풀이
+🗂bfs : bfs를 이용한 문제 풀이(최단 거리, 최단 시간, 최소 횟수 등)
 🗂binarysearch : 이진 탐색 풀이
 🗂binarytree : 이진 트리 풀이
 🗂dijkstra: 다익스트라를 통한 최단 거리 풀이
@@ -16,6 +17,7 @@
 🗂geometry : 교점 및 직선 방정식 풀이
 🗂️greedy : 그리디 문제 풀이
 🗂️implementation : 구현 문제 풀이
+🗂stack : Stack 자료구조를 활용한 풀이
 🗂string : 문자열 문제 풀이
 
 ### 사이트
