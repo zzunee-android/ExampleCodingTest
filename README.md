@@ -17,6 +17,8 @@
 🗂geometry : 교점 및 직선 방정식 풀이
 🗂️greedy : 그리디 문제 풀이
 🗂️implementation : 구현 문제 풀이
+🗂simulation : 시뮬레이션 문제 풀이
+🗂slidingwindow : 슬라이딩 윈도우 문제 풀이 (부분합, 부분 수열 등)
 🗂stack : Stack 자료구조를 활용한 풀이
 🗂string : 문자열 문제 풀이
 
